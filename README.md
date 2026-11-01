@@ -97,7 +97,7 @@ only to verify the Policy Iteration solution.
 - `videos/`: recorded episodes.
 
 The assignment also requires a GitHub repository. The original project points
-to [this repository](https://github.com/VENAMONIX/policy_iteration_custom_gym_environment).
+to [this repository](https://github.com/VENAMONIX/policy_iteration_custom_gym_environment)  .
 Upload or commit the final source, report, and videos there before submission;
 the ZIP does not update the remote repository. Keep local virtual environments
 and Python caches out of the repository.
