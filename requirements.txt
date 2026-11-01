@@ -1,0 +1,7 @@
+gymnasium>=1.0,<2.0
+numpy>=1.24
+pygame>=2.5
+imageio>=2.31
+imageio-ffmpeg>=0.4.9
+moviepy>=2.0
+pytest>=8.0
